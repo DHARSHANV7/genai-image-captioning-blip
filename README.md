@@ -85,7 +85,7 @@ gr.close_all()
 ```
 
 ### OUTPUT:
-![Image alt](https://github.com/Sanjeev23062007/genai-image-captioning-blip/blob/44990dd9c11cfc487082f8771504fc5705b7d03c/Screenshot%202026-03-15%20094311.png)
+![Image alt](https://github.com/DHARSHANV7/genai-image-captioning-blip/blob/b7f5fb9a04ad4b918970747dbac3e8610d12f175/seagull_flight_sky_wings.jpg)
 
 
 ### RESULT:
